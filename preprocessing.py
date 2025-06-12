@@ -8,9 +8,8 @@ from sklearn.model_selection import KFold
 # ------------------------- Settings ------------------------ #
 
 #Sizes
-TRAIN_SZ = 0.7
-VALID_SZ = 0.15
-TEST_SZ = 0.15
+TRAIN_SZ = 0.8
+TEST_SZ = 0.2
 FOLD_SZ = 6
 LAGS_SZ = 8
 H_FORECAST = 1
