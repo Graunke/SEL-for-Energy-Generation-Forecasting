@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt
 import ydata_profiling as yp
 from dataHandle import datasetaq
 from statsmodels.graphics.tsaplots import plot_acf, plot_pacf
+from statsmodels.tsa.seasonal import seasonal_decompose
 
 # ---------------------------- EDA ----------------------------- #
 

@@ -1,6 +1,5 @@
 sel
 __pycache__
-*.csv
 *.html
 models
 .vscode
